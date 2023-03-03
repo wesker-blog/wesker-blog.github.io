@@ -8,7 +8,7 @@
       <link href="/posts/835d4465.html"/>
       <url>/posts/835d4465.html</url>
       
-        <content type="html"><![CDATA[<pre><code>移动当前行vscode：alt+方向键source insight：ctrl+方向键复制当前行vscode：Shift + Alt +左右方向，然后复制键source insight：ctrl+k选中多个单词vscode： ctrl + d左右跳过单词两者相同：ctrl+左右方向键向前搜索两者相同：f3向后搜索两者相同：f4连选两者相同：按住shift+ctrl+左右方向键跳转指定行两者相同：ctrl+g重新命名变量vscode： f2</code></pre><p>跳到报错处<br>vscode：Ctrl + Shift + M</p><p>添加多个光标<br>vscode： Ctrl + Alt + 上箭头&#x2F;下箭头</p><p>关闭当前文件<br>两者相同：ctrl+w</p><p>将光标从首页移到末尾<br>ctrl+home<br>ctrl+encl</p>]]></content>
+        <content type="html"><![CDATA[<pre><code>    移动当前行    vscode：alt+方向键    source insight：ctrl+方向键        复制当前行    vscode：Shift + Alt +左右方向，然后复制键    source insight：ctrl+k        选中多个单词    vscode： ctrl + d        左右跳过单词    两者相同：ctrl+左右方向键        向前搜索    两者相同：f3        向后搜索    两者相同：f4    连选    两者相同：按住shift+ctrl+左右方向键    跳转指定行    两者相同：ctrl+g        重新命名变量    vscode： f2跳到报错处vscode：Ctrl + Shift + M添加多个光标vscode： Ctrl + Alt + 上箭头/下箭头关闭当前文件两者相同：ctrl+w将光标从首页移到末尾ctrl+homectrl+encl光标代码滚动vscode：ctrl+上下方向source insight ：alt+方向键光标代码行头行尾移动两者相同：home   encl光标代码块移动vscode：shift+ctrl +\</code></pre>]]></content>
       
       
       <categories>
@@ -23,7 +23,7 @@
     
     
     <entry>
-      <title>报隐式函数的报错</title>
+      <title>挂载根文件系统出现错误</title>
       <link href="/posts/643bdf5f.html"/>
       <url>/posts/643bdf5f.html</url>
       
@@ -140,9 +140,9 @@
     
     
     <entry>
-      <title>标签</title>
-      <link href="/tags/index.html"/>
-      <url>/tags/index.html</url>
+      <title>分类</title>
+      <link href="/categories/index.html"/>
+      <url>/categories/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -162,9 +162,9 @@
     
     
     <entry>
-      <title>分类</title>
-      <link href="/categories/index.html"/>
-      <url>/categories/index.html</url>
+      <title>标签</title>
+      <link href="/tags/index.html"/>
+      <url>/tags/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
